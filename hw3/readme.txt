@@ -1,0 +1,1 @@
+Odev netbeans projesi olarak oluşturulmuştur. Sadece part1 bicubic interpolation mevcut değildir.
